@@ -1,5 +1,5 @@
-# Electrum_Breaker
-Electrum PrivKey brute force tool
+# Eth_Breaker
+Ethereum PrivKey brute force tool
 
 This tool uses a partially correct private key and a correct address
 Please ensure that your computer is not connected to the internet while running attempting to run this if you have a high value. 
